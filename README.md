@@ -1,4 +1,13 @@
-## Hi there 👋
+# MihikoSuzuki / Tsumuri 🌻
+## 👩‍💻 Profile
+I'm working as Design Engineer.
+
+[![](https://img.shields.io/badge/portfolio-ff9068?style=for-the-badge&logo=flower&logoColor=white)](https://tsumurisuuu.com/)
+[![X](https://img.shields.io/badge/mihoksuzuk-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mihoksuzuk)
+
+
+## 🌱 Stack
+ ![Tech Stack](https://skillicons.dev/icons?i=js,typescript,vue,nuxt,react,next,nodejs,rails,figma,xd,illustrator,photoshop,wordpress)
 
 <!--
 **MihokoSuzuki/MihokoSuzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
